@@ -50,7 +50,7 @@ pluggy==0.13.1
 post==0.0.0
 pre-commit==2.6.0
 prompt-toolkit==3.0.5
-py==1.9.0
+py==1.10.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.6.0
