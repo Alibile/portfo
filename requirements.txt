@@ -58,7 +58,7 @@ pycparser==2.20
 Pygments==2.6.1
 PyHamcrest==2.0.2
 pyjokes==0.6.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.5.3
 pyparsing==2.4.7
 pyPdf==1.13
